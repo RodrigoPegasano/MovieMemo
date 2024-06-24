@@ -1,0 +1,17 @@
+.container-movies {
+    display: flex;
+    justify-content: center;
+    /* justify-content: center; */
+    /* margin: 40px auto 0 auto; */
+}
+
+.all-movies {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    margin: 20px 120px 80px 120px;
+    /* display: flex;
+    flex-wrap: wrap;
+    justify-content: start;
+    margin: 0 auto; */
+}

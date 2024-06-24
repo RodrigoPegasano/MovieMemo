@@ -1,0 +1,85 @@
+.signup-form {
+    width: 350px;
+    margin: 20px auto 0 auto;
+}
+
+.signup-form div {
+    width: 350px;
+    margin: 0;
+}
+
+input {
+    height: 40px;
+    border-radius: 8px;
+    border: none;
+    padding-left: 10px;
+}
+
+.input-1 {
+    width: 350px;
+}
+
+.input-2 {
+    width: 170px;
+}
+
+.input-2-margin {
+    margin-right: 10px;
+}
+
+.space {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.inputs-display {
+    display: flex;
+}
+
+.signup-form-button {
+    background-color: #3563F4;
+    border-radius: 8px;
+    border: none;
+    color: #f5f5f5;
+    font-size: 18px;
+    font-weight: bold;
+    width: 350px;
+    height: 40px;
+    margin-top: 10px;
+}
+
+.signup-form-button-disable {
+    background-color: #cccccc;
+    border-radius: 8px;
+    border: none;
+    color: #838181;
+    font-size: 18px;
+    font-weight: bold;
+    width: 350px;
+    height: 40px;
+    margin-top: 10px;
+}
+
+.password-error {
+    color: #E95355;
+    font-weight: bold;
+}
+
+.password-require {
+    display: flex;
+    margin-bottom: 20px;
+}
+
+.password-li {
+    color: #f5f5f5;
+    font-size: 14px;
+    text-align: left;
+}
+
+.require-color-red {
+    color: #E95355;
+}
+
+.require-color-green {
+    color: rgb(34, 223, 20);
+}

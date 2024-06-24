@@ -1,0 +1,6 @@
+.all-users {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 40px;
+    margin: 40px 56px 0 56px;
+}

@@ -1,0 +1,53 @@
+.movie-form {
+    display: flex;
+    justify-content: space-evenly;
+    width: 650px;
+    margin: 20px auto 0 auto;
+}
+
+.movie-form-left div {
+    background-color: #ffffff;
+    border-radius: 8px;
+    width: 200px;
+    height: 250px;
+    margin: 20px 0;
+}
+
+.image-form {
+    border-radius: 8px;
+    width: 200px;
+    height: 250px;
+}
+
+.image-input {
+    width: 200px;
+}
+
+.movie-input {
+    width: 400px;
+}
+
+.movie-form-right div {
+    margin: 20px 0;
+}
+
+.movie-input-margin-right {
+    margin-right: 20px;
+}
+
+.movie-form-right textarea {
+    border-radius: 8px;
+    margin-top: 5px;
+    padding-left: 10px;
+}
+
+.movie-button {
+    background-color: #3563F4;
+    border-radius: 8px;
+    border: none;
+    color: #f5f5f5;
+    font-size: 18px;
+    font-weight: bold;
+    width: 620px;
+    height: 40px;
+}

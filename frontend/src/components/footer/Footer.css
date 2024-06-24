@@ -1,0 +1,20 @@
+.footer {
+    position: fixed;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 12.5vh;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+}
+
+.footer-link {
+    color: #f5f5f5;
+    font-size: 15px;
+    text-decoration: none;
+}
+
+.footer-link.gap {
+    margin: 0 16px;
+}

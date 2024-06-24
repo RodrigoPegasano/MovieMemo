@@ -1,0 +1,36 @@
+.carousel {
+    margin: 0 64px;
+    height: 75vh;
+}
+
+.carousel-display {
+    display: flex;
+    height: 75vh;
+    align-items: center;
+}
+
+.section-left {
+    width: 60%;
+    text-align: left;
+    align-content: center;
+    height: 300px;
+    /* padding-left: 100px; */
+}
+
+.section-left h3 {
+    font-size: 80px;
+    font-weight: bold;
+}
+
+.section-left p {
+    font-size: 32px;
+}
+
+.section-right {
+    width: 40%;
+}
+
+.section-right img {
+    width: 50%;
+    height: 100%;
+}

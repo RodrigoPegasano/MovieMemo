@@ -1,0 +1,11 @@
+@font-face {
+  font-family: "Gill Sans Nova";
+  src: url('./font/gillsansnova_book.ttf');
+}
+
+#root {
+  font-family: "Gill Sans Nova";
+  margin: 0 auto;
+  text-align: center;
+  color: #f5f5f5;
+}
